@@ -6,7 +6,7 @@
 - Possuo experiência como desenvolvedora front-end ✨
 - Estou sempre estudando tecnologias web 💻
 - Buscando me tornar uma desenvolvedora fullstack 🚀
-- Atualmente estou estudando Flutter 📚
+- Atualmente estou trabalhando com Flutter 📚
 
 ## Habilidades
 
