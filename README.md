@@ -2,9 +2,10 @@
 # Ana Maria Gomes Holanda
 
 - Brasileira 🇧🇷
-- Graduanda em Tecnologia da Informação com ênfase em Engenharia de Software pela Universidade Federal do Rio Grande do Norte (UFRN) 📖
-- Possuo experiência como desenvolvedora front-end ✨
-- Estou sempre estudando tecnologias web 💻
+- Graduanda em Engenharia de Software pela Universidade Federal do Rio Grande do Norte (UFRN) 📖
+- Graduada em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) 📖
+- Possuo experiência como desenvolvedora front-end e mobile✨
+- Estou sempre estudando novas tecnologias 💻
 - Buscando me tornar uma desenvolvedora fullstack 🚀
 - Atualmente estou trabalhando com Flutter 📚
 
